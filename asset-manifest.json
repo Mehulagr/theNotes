@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/theNotes/static/css/main.dd80410c.chunk.css",
+    "main.js": "/theNotes/static/js/main.f34036f3.chunk.js",
+    "main.js.map": "/theNotes/static/js/main.f34036f3.chunk.js.map",
+    "runtime~main.js": "/theNotes/static/js/runtime~main.05e53e14.js",
+    "runtime~main.js.map": "/theNotes/static/js/runtime~main.05e53e14.js.map",
+    "static/js/2.912951aa.chunk.js": "/theNotes/static/js/2.912951aa.chunk.js",
+    "static/js/2.912951aa.chunk.js.map": "/theNotes/static/js/2.912951aa.chunk.js.map",
+    "index.html": "/theNotes/index.html",
+    "precache-manifest.60f843327a96298aa60ba4918e57cb8f.js": "/theNotes/precache-manifest.60f843327a96298aa60ba4918e57cb8f.js",
+    "service-worker.js": "/theNotes/service-worker.js",
+    "static/css/main.dd80410c.chunk.css.map": "/theNotes/static/css/main.dd80410c.chunk.css.map",
+    "static/media/logo.svg": "/theNotes/static/media/logo.5d5d9eef.svg"
+  }
+}
