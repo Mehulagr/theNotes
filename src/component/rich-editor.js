@@ -1,5 +1,6 @@
 import React from 'react';
 import {Editor, EditorState, RichUtils, getDefaultKeyBinding} from 'draft-js';
+import '../App.css';
 
 class RichEditorExample extends React.Component {
   constructor(props) {
